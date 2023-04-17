@@ -1,0 +1,15 @@
+C:\Users\furka\source\repos\CustomerSolution\Customer.Entities\bin\Debug\net6.0\Customer.Entities.deps.json
+C:\Users\furka\source\repos\CustomerSolution\Customer.Entities\bin\Debug\net6.0\Customer.Entities.dll
+C:\Users\furka\source\repos\CustomerSolution\Customer.Entities\bin\Debug\net6.0\Customer.Entities.pdb
+C:\Users\furka\source\repos\CustomerSolution\Customer.Entities\bin\Debug\net6.0\Common.dll
+C:\Users\furka\source\repos\CustomerSolution\Customer.Entities\bin\Debug\net6.0\Common.pdb
+C:\Users\furka\source\repos\CustomerSolution\Customer.Entities\obj\Debug\net6.0\Customer.Entities.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\CustomerSolution\Customer.Entities\obj\Debug\net6.0\Customer.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\CustomerSolution\Customer.Entities\obj\Debug\net6.0\Customer.Entities.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\CustomerSolution\Customer.Entities\obj\Debug\net6.0\Customer.Entities.AssemblyInfo.cs
+C:\Users\furka\source\repos\CustomerSolution\Customer.Entities\obj\Debug\net6.0\Customer.Entities.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\CustomerSolution\Customer.Entities\obj\Debug\net6.0\Customer.Entities.csproj.CopyComplete
+C:\Users\furka\source\repos\CustomerSolution\Customer.Entities\obj\Debug\net6.0\Customer.Entities.dll
+C:\Users\furka\source\repos\CustomerSolution\Customer.Entities\obj\Debug\net6.0\refint\Customer.Entities.dll
+C:\Users\furka\source\repos\CustomerSolution\Customer.Entities\obj\Debug\net6.0\Customer.Entities.pdb
+C:\Users\furka\source\repos\CustomerSolution\Customer.Entities\obj\Debug\net6.0\ref\Customer.Entities.dll

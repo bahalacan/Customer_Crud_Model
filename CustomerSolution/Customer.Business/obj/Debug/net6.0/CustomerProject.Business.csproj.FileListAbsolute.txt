@@ -1,0 +1,5 @@
+C:\Users\furka\source\repos\CustomerSolution\Customer.Business\obj\Debug\net6.0\CustomerProject.Business.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\CustomerSolution\Customer.Business\obj\Debug\net6.0\CustomerProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\CustomerSolution\Customer.Business\obj\Debug\net6.0\CustomerProject.Business.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\CustomerSolution\Customer.Business\obj\Debug\net6.0\CustomerProject.Business.AssemblyInfo.cs
+C:\Users\furka\source\repos\CustomerSolution\Customer.Business\obj\Debug\net6.0\CustomerProject.Business.csproj.CoreCompileInputs.cache

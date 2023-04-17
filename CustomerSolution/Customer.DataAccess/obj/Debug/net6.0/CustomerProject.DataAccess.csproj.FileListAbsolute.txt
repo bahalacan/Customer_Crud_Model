@@ -1,0 +1,17 @@
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\bin\Debug\net6.0\CustomerProject.DataAccess.deps.json
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\bin\Debug\net6.0\CustomerProject.DataAccess.dll
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\bin\Debug\net6.0\CustomerProject.DataAccess.pdb
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\bin\Debug\net6.0\Common.dll
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\bin\Debug\net6.0\CustomerProject.Entities.dll
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\bin\Debug\net6.0\Common.pdb
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\bin\Debug\net6.0\CustomerProject.Entities.pdb
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\CustomerProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\CustomerProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\CustomerProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\CustomerProject.DataAccess.AssemblyInfo.cs
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\CustomerProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\CustomerProject.DataAccess.csproj.CopyComplete
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\CustomerProject.DataAccess.dll
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\refint\CustomerProject.DataAccess.dll
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\CustomerProject.DataAccess.pdb
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\ref\CustomerProject.DataAccess.dll

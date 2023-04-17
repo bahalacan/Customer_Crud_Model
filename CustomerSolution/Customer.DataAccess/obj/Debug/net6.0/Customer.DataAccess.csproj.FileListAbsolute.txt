@@ -1,0 +1,17 @@
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\bin\Debug\net6.0\Customer.DataAccess.deps.json
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\bin\Debug\net6.0\Customer.DataAccess.dll
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\bin\Debug\net6.0\Customer.DataAccess.pdb
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\bin\Debug\net6.0\Common.dll
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\bin\Debug\net6.0\Customer.Entities.dll
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\bin\Debug\net6.0\Common.pdb
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\bin\Debug\net6.0\Customer.Entities.pdb
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\Customer.DataAccess.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\Customer.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\Customer.DataAccess.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\Customer.DataAccess.AssemblyInfo.cs
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\Customer.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\Customer.DataAccess.csproj.CopyComplete
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\Customer.DataAccess.dll
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\refint\Customer.DataAccess.dll
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\Customer.DataAccess.pdb
+C:\Users\furka\source\repos\CustomerSolution\Customer.DataAccess\obj\Debug\net6.0\ref\Customer.DataAccess.dll
